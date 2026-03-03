@@ -1,6 +1,6 @@
 # Cricket Performance Analysis Dashboard (ESPNcricinfo Statsguru)
 
-### Dashboard Link : [https://app.fabric.microsoft.com/groups/a28be606-1909-4a87-a431-4ad479404a6a/reports/7348c166-7d9e-4f3c-90d0-7b10b026a124?ctid=5416891c-3a15-4085-aa99-44b6eed1205e&pbi_source=linkShare]
+
 
 ## 📋 Project Overview
 This Power BI project provides a comprehensive 360-degree analysis of cricket player performances across **Batting**, **Bowling**, and **Fielding**. By transforming raw data into statistical insights, this dashboard helps teams and analysts identify top performers and evaluate consistency through advanced deviation metrics and rankings.
